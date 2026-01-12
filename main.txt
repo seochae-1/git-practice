@@ -15,7 +15,10 @@ dev():
         #final edit for feature 2
 
     feature/3():
-        #this is code for feature3
+        #this is code for feature 3
+
+    feature/4():
+        #this is code for feature 4
 
     release():
         #this is code for release
