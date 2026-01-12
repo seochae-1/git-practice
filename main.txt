@@ -20,6 +20,10 @@ dev():
     feature/4():
         #this is code for feature 4
 
+    feature/5():
+        #this is code for feature 5
+        #edited from v1.2.0 at local repository
+
     release():
         #this is code for release
         #little edit for release
