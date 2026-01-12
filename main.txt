@@ -26,4 +26,5 @@ dev():
         #final edit for release
 
     hotfix():
-        #hotfic critical error!
+        #hotfix critical error!
+        #hotfix critical error 2!
