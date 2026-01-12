@@ -13,3 +13,6 @@ dev():
         #this is code for feature 2
         #little edit for feature 2
         #final edit for feature 2
+
+    release():
+        #this is code for release
