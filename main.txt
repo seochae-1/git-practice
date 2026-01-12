@@ -18,3 +18,6 @@ dev():
         #this is code for release
         #little edit for release
         #final edit for release
+
+    hotfix():
+        #hotfic critical error!
